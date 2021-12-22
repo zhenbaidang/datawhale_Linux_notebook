@@ -4,33 +4,54 @@
 
 登录：ssh 用户名@IP
 
-![1.1](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/1.1.png)
+![1.1](./img/1.1.png)
 
 ### 任务2-在目录下创建文件夹、删除文件夹
 
-![2.1](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/2.1.png)
+![2.1](./img/2.1.png)
 
 ### 任务3-在目录下下载文件、阅读文件
 
-![3.1](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/3.1.png)
+![3.1](./img/3.1.png)
 
-![3.2](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/3.2.png)
+![3.2](./img/3.2.png)
 
-![3.3](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/3.3.png)
+![3.3](./img/3.3.png)
 
 ### 任务4-使用vim编辑文件
 
-![4.1](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/4.1.png)
+![4.1](./img/4.1.png)
 
-![4.2](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/4.2.png)
+![4.2](./img/4.2.png)
 
-![4.3](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/4.3.png)
+![4.3](./img/4.3.png)
 
-![4.4](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/4.4.png)
+![4.4](./img/4.4.png)
 
 ### 任务5-在目录下创建py文件，并进行运行
 
-![5.1](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/5.1.png)
+![5.1](./img/5.1.png)
 
-![5.2](/Users/liyaoting/Documents/笔记/deeplearning/Linux/img/5.2.png)
+![5.2](./img/5.2.png)
+
+### 任务6-python代码模块化
+
+![6.1](./img/6.1.png)
+
+![6.2](./img/6.2.png)
+
+![6.3](./img/6.3.png)
+
+![6.4](./img/6.4.png)
+
+### 任务7-使用tmux后台运行程序并打印日志
+
+![7.1](./img/7.1.png)
+
+![7.2](./img/7.2.png)
+
+![7.3](./img/7.3.png)
+
+![7.4](./img/7.4.png)
+
 
